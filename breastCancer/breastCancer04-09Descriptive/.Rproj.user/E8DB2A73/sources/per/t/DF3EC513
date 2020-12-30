@@ -1,0 +1,32 @@
+{
+    "id": "DF3EC513",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1608316052582.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "structure(list(Age_at_diagnosis = c(10, 12, 13, 15, 16, 17, 18,  19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34,  35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50,  51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66,  67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82,  83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98,  99), cases = c(1L, 1L, 2L, 3L, 1L, 4L, 9L, 9L, 14L, 29L, 41L,  59L, 112L, 173L, 192L, 263L, 354L, 403L, 541L, 664L, 826L, 965L,  1224L, 1520L, 1652L, 2035L, 2190L, 2584L, 3477L, 3614L, 4100L,  4607L, 5165L, 5658L, 6029L, 6444L, 6769L, 7026L, 7173L, 6711L,  6809L, 6763L, 6809L, 6832L, 6950L, 7258L, 7159L, 7039L, 7142L,  7089L, 6806L, 6501L, 6134L, 6578L, 6170L, 5590L, 5426L, 5359L,  5105L, 4897L, 4636L, 4627L, 4510L, 4445L, 4376L, 4186L, 4144L,  3963L, 3682L, 3503L, 3323L, 3045L, 2678L, 2420L, 2082L, 1747L,  1500L, 1222L, 930L, 823L, 630L, 487L, 398L, 272L, 193L, 137L,  99L, 49L)), row.names = c(NA, -88L), class = c(\"tbl_df\", \"tbl\",  \"data.frame\"))",
+        "caption": "age_case",
+        "totalObservations": "88",
+        "displayedObservations": "88",
+        "variables": "2",
+        "cacheKey": "7C75D4F9",
+        "object": "",
+        "environment": "_rs_no_env",
+        "contentUrl": "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=7C75D4F9&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1608315216,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608316052582,
+    "read_only": false,
+    "read_only_alternatives": []
+}
