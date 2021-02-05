@@ -76,6 +76,6 @@ ggplot(data = race_case, aes(x = Year_of_diagnosis,
   theme(legend.position = "bottom")+
   labs(title = "Breast Cancer diagnosis in different races",
        x = "Year of Diagnosis", y = "Cases")
-  
+ 
 
   

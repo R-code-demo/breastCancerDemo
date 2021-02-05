@@ -1,6 +1,6 @@
-#This rankhospital function reads data from a file called "outcome-of-care-measures.csv",
+#This rank_hospital function reads data from a file called "outcome-of-care-measures.csv",
 #then ranks per state the 30-day mortality rate of the patients who had heart attacks, 
-#heart failure, or pneumonia. After that, this function will generate a dataframe 
+#heart failure, or pneumonia. After that, this function will generate a data frame 
 #with information about hospitals that have a specific ranking in each state.
 
 library(tidyverse)
